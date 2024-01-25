@@ -1,0 +1,200 @@
+E:\Didar\Working File\2022\1.January\ECOAPI\bin\Debug\net5.0\appsettings.Development.json
+E:\Didar\Working File\2022\1.January\ECOAPI\bin\Debug\net5.0\appsettings.json
+E:\Didar\Working File\2022\1.January\ECOAPI\bin\Debug\net5.0\ECOAPI.exe
+E:\Didar\Working File\2022\1.January\ECOAPI\bin\Debug\net5.0\ECOAPI.deps.json
+E:\Didar\Working File\2022\1.January\ECOAPI\bin\Debug\net5.0\ECOAPI.runtimeconfig.json
+E:\Didar\Working File\2022\1.January\ECOAPI\bin\Debug\net5.0\ECOAPI.runtimeconfig.dev.json
+E:\Didar\Working File\2022\1.January\ECOAPI\bin\Debug\net5.0\ECOAPI.dll
+E:\Didar\Working File\2022\1.January\ECOAPI\bin\Debug\net5.0\ref\ECOAPI.dll
+E:\Didar\Working File\2022\1.January\ECOAPI\bin\Debug\net5.0\ECOAPI.pdb
+E:\Didar\Working File\2022\1.January\ECOAPI\bin\Debug\net5.0\ECOAPI.Views.dll
+E:\Didar\Working File\2022\1.January\ECOAPI\bin\Debug\net5.0\ECOAPI.Views.pdb
+E:\Didar\Working File\2022\1.January\ECOAPI\obj\Debug\net5.0\ECOAPI.csproj.AssemblyReference.cache
+E:\Didar\Working File\2022\1.January\ECOAPI\obj\Debug\net5.0\ECOAPI.GeneratedMSBuildEditorConfig.editorconfig
+E:\Didar\Working File\2022\1.January\ECOAPI\obj\Debug\net5.0\ECOAPI.AssemblyInfoInputs.cache
+E:\Didar\Working File\2022\1.January\ECOAPI\obj\Debug\net5.0\ECOAPI.AssemblyInfo.cs
+E:\Didar\Working File\2022\1.January\ECOAPI\obj\Debug\net5.0\ECOAPI.csproj.CoreCompileInputs.cache
+E:\Didar\Working File\2022\1.January\ECOAPI\obj\Debug\net5.0\ECOAPI.MvcApplicationPartsAssemblyInfo.cache
+E:\Didar\Working File\2022\1.January\ECOAPI\obj\Debug\net5.0\ECOAPI.RazorAssemblyInfo.cache
+E:\Didar\Working File\2022\1.January\ECOAPI\obj\Debug\net5.0\ECOAPI.RazorAssemblyInfo.cs
+E:\Didar\Working File\2022\1.January\ECOAPI\obj\Debug\net5.0\staticwebassets\ECOAPI.StaticWebAssets.Manifest.cache
+E:\Didar\Working File\2022\1.January\ECOAPI\obj\Debug\net5.0\staticwebassets\ECOAPI.StaticWebAssets.xml
+E:\Didar\Working File\2022\1.January\ECOAPI\obj\Debug\net5.0\scopedcss\bundle\ECOAPI.styles.css
+E:\Didar\Working File\2022\1.January\ECOAPI\obj\Debug\net5.0\ECOAPI.TagHelpers.input.cache
+E:\Didar\Working File\2022\1.January\ECOAPI\obj\Debug\net5.0\ECOAPI.TagHelpers.output.cache
+E:\Didar\Working File\2022\1.January\ECOAPI\obj\Debug\net5.0\ECOAPI.RazorCoreGenerate.cache
+E:\Didar\Working File\2022\1.January\ECOAPI\obj\Debug\net5.0\Razor\Pages\Error.cshtml.g.cs
+E:\Didar\Working File\2022\1.January\ECOAPI\obj\Debug\net5.0\Razor\Pages\Index.cshtml.g.cs
+E:\Didar\Working File\2022\1.January\ECOAPI\obj\Debug\net5.0\Razor\Pages\Privacy.cshtml.g.cs
+E:\Didar\Working File\2022\1.January\ECOAPI\obj\Debug\net5.0\Razor\Pages\Shared\_Layout.cshtml.g.cs
+E:\Didar\Working File\2022\1.January\ECOAPI\obj\Debug\net5.0\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+E:\Didar\Working File\2022\1.January\ECOAPI\obj\Debug\net5.0\Razor\Pages\_ViewImports.cshtml.g.cs
+E:\Didar\Working File\2022\1.January\ECOAPI\obj\Debug\net5.0\Razor\Pages\_ViewStart.cshtml.g.cs
+E:\Didar\Working File\2022\1.January\ECOAPI\obj\Debug\net5.0\ECOAPI.RazorTargetAssemblyInfo.cache
+E:\Didar\Working File\2022\1.January\ECOAPI\obj\Debug\net5.0\ECOAPI.RazorTargetAssemblyInfo.cs
+E:\Didar\Working File\2022\1.January\ECOAPI\obj\Debug\net5.0\ECOAPI.Views.pdb
+E:\Didar\Working File\2022\1.January\ECOAPI\obj\Debug\net5.0\ECOAPI.dll
+E:\Didar\Working File\2022\1.January\ECOAPI\obj\Debug\net5.0\ref\ECOAPI.dll
+E:\Didar\Working File\2022\1.January\ECOAPI\obj\Debug\net5.0\ECOAPI.pdb
+E:\Didar\Working File\2022\1.January\ECOAPI\obj\Debug\net5.0\ECOAPI.genruntimeconfig.cache
+E:\Didar\Working File\2022\1.January\ECOAPI\obj\Debug\net5.0\ECOAPI.csproj.CopyComplete
+\\prpd\MISR\PRP\PECO\ECOAPI 2022-05-24\bin\Debug\net5.0\appsettings.Development.json
+\\prpd\MISR\PRP\PECO\ECOAPI 2022-05-24\bin\Debug\net5.0\appsettings.json
+\\prpd\MISR\PRP\PECO\ECOAPI 2022-05-24\bin\Debug\net5.0\ECOAPI.exe
+\\prpd\MISR\PRP\PECO\ECOAPI 2022-05-24\bin\Debug\net5.0\ECOAPI.deps.json
+\\prpd\MISR\PRP\PECO\ECOAPI 2022-05-24\bin\Debug\net5.0\ECOAPI.runtimeconfig.json
+\\prpd\MISR\PRP\PECO\ECOAPI 2022-05-24\bin\Debug\net5.0\ECOAPI.runtimeconfig.dev.json
+\\prpd\MISR\PRP\PECO\ECOAPI 2022-05-24\bin\Debug\net5.0\ECOAPI.dll
+\\prpd\MISR\PRP\PECO\ECOAPI 2022-05-24\bin\Debug\net5.0\ref\ECOAPI.dll
+\\prpd\MISR\PRP\PECO\ECOAPI 2022-05-24\bin\Debug\net5.0\ECOAPI.pdb
+\\prpd\MISR\PRP\PECO\ECOAPI 2022-05-24\bin\Debug\net5.0\ECOAPI.Views.dll
+\\prpd\MISR\PRP\PECO\ECOAPI 2022-05-24\bin\Debug\net5.0\ECOAPI.Views.pdb
+\\prpd\MISR\PRP\PECO\ECOAPI 2022-05-24\obj\Debug\net5.0\ECOAPI.csproj.AssemblyReference.cache
+\\prpd\MISR\PRP\PECO\ECOAPI 2022-05-24\obj\Debug\net5.0\ECOAPI.GeneratedMSBuildEditorConfig.editorconfig
+\\prpd\MISR\PRP\PECO\ECOAPI 2022-05-24\obj\Debug\net5.0\ECOAPI.AssemblyInfoInputs.cache
+\\prpd\MISR\PRP\PECO\ECOAPI 2022-05-24\obj\Debug\net5.0\ECOAPI.AssemblyInfo.cs
+\\prpd\MISR\PRP\PECO\ECOAPI 2022-05-24\obj\Debug\net5.0\ECOAPI.csproj.CoreCompileInputs.cache
+\\prpd\MISR\PRP\PECO\ECOAPI 2022-05-24\obj\Debug\net5.0\ECOAPI.MvcApplicationPartsAssemblyInfo.cache
+\\prpd\MISR\PRP\PECO\ECOAPI 2022-05-24\obj\Debug\net5.0\ECOAPI.RazorAssemblyInfo.cache
+\\prpd\MISR\PRP\PECO\ECOAPI 2022-05-24\obj\Debug\net5.0\ECOAPI.RazorAssemblyInfo.cs
+\\prpd\MISR\PRP\PECO\ECOAPI 2022-05-24\obj\Debug\net5.0\staticwebassets\ECOAPI.StaticWebAssets.Manifest.cache
+\\prpd\MISR\PRP\PECO\ECOAPI 2022-05-24\obj\Debug\net5.0\staticwebassets\ECOAPI.StaticWebAssets.xml
+\\prpd\MISR\PRP\PECO\ECOAPI 2022-05-24\obj\Debug\net5.0\scopedcss\bundle\ECOAPI.styles.css
+\\prpd\MISR\PRP\PECO\ECOAPI 2022-05-24\obj\Debug\net5.0\ECOAPI.TagHelpers.input.cache
+\\prpd\MISR\PRP\PECO\ECOAPI 2022-05-24\obj\Debug\net5.0\ECOAPI.TagHelpers.output.cache
+\\prpd\MISR\PRP\PECO\ECOAPI 2022-05-24\obj\Debug\net5.0\ECOAPI.RazorCoreGenerate.cache
+\\prpd\MISR\PRP\PECO\ECOAPI 2022-05-24\obj\Debug\net5.0\Razor\Pages\Error.cshtml.g.cs
+\\prpd\MISR\PRP\PECO\ECOAPI 2022-05-24\obj\Debug\net5.0\Razor\Pages\Index.cshtml.g.cs
+\\prpd\MISR\PRP\PECO\ECOAPI 2022-05-24\obj\Debug\net5.0\Razor\Pages\Privacy.cshtml.g.cs
+\\prpd\MISR\PRP\PECO\ECOAPI 2022-05-24\obj\Debug\net5.0\Razor\Pages\Shared\_Layout.cshtml.g.cs
+\\prpd\MISR\PRP\PECO\ECOAPI 2022-05-24\obj\Debug\net5.0\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+\\prpd\MISR\PRP\PECO\ECOAPI 2022-05-24\obj\Debug\net5.0\Razor\Pages\_ViewImports.cshtml.g.cs
+\\prpd\MISR\PRP\PECO\ECOAPI 2022-05-24\obj\Debug\net5.0\Razor\Pages\_ViewStart.cshtml.g.cs
+\\prpd\MISR\PRP\PECO\ECOAPI 2022-05-24\obj\Debug\net5.0\ECOAPI.RazorTargetAssemblyInfo.cache
+\\prpd\MISR\PRP\PECO\ECOAPI 2022-05-24\obj\Debug\net5.0\ECOAPI.RazorTargetAssemblyInfo.cs
+\\prpd\MISR\PRP\PECO\ECOAPI 2022-05-24\obj\Debug\net5.0\ECOAPI.Views.pdb
+\\prpd\MISR\PRP\PECO\ECOAPI 2022-05-24\obj\Debug\net5.0\ECOAPI.dll
+\\prpd\MISR\PRP\PECO\ECOAPI 2022-05-24\obj\Debug\net5.0\ref\ECOAPI.dll
+\\prpd\MISR\PRP\PECO\ECOAPI 2022-05-24\obj\Debug\net5.0\ECOAPI.pdb
+\\prpd\MISR\PRP\PECO\ECOAPI 2022-05-24\obj\Debug\net5.0\ECOAPI.genruntimeconfig.cache
+\\prpd\MISR\PRP\PECO\ECOAPI 2022-05-24\obj\Debug\net5.0\ECOAPI.csproj.CopyComplete
+C:\work\Panjeree\PECO\API\ECOAPI 2022-05-24\bin\Debug\net5.0\appsettings.Development.json
+C:\work\Panjeree\PECO\API\ECOAPI 2022-05-24\bin\Debug\net5.0\appsettings.json
+C:\work\Panjeree\PECO\API\ECOAPI 2022-05-24\bin\Debug\net5.0\ECOAPI.StaticWebAssets.xml
+C:\work\Panjeree\PECO\API\ECOAPI 2022-05-24\bin\Debug\net5.0\ECOAPI.exe
+C:\work\Panjeree\PECO\API\ECOAPI 2022-05-24\bin\Debug\net5.0\ECOAPI.deps.json
+C:\work\Panjeree\PECO\API\ECOAPI 2022-05-24\bin\Debug\net5.0\ECOAPI.runtimeconfig.json
+C:\work\Panjeree\PECO\API\ECOAPI 2022-05-24\bin\Debug\net5.0\ECOAPI.runtimeconfig.dev.json
+C:\work\Panjeree\PECO\API\ECOAPI 2022-05-24\bin\Debug\net5.0\ECOAPI.dll
+C:\work\Panjeree\PECO\API\ECOAPI 2022-05-24\bin\Debug\net5.0\ECOAPI.pdb
+C:\work\Panjeree\PECO\API\ECOAPI 2022-05-24\bin\Debug\net5.0\ECOAPI.Views.dll
+C:\work\Panjeree\PECO\API\ECOAPI 2022-05-24\bin\Debug\net5.0\ECOAPI.Views.pdb
+C:\work\Panjeree\PECO\API\ECOAPI 2022-05-24\obj\Debug\net5.0\ECOAPI.csproj.AssemblyReference.cache
+C:\work\Panjeree\PECO\API\ECOAPI 2022-05-24\obj\Debug\net5.0\ECOAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\work\Panjeree\PECO\API\ECOAPI 2022-05-24\obj\Debug\net5.0\ECOAPI.AssemblyInfoInputs.cache
+C:\work\Panjeree\PECO\API\ECOAPI 2022-05-24\obj\Debug\net5.0\ECOAPI.AssemblyInfo.cs
+C:\work\Panjeree\PECO\API\ECOAPI 2022-05-24\obj\Debug\net5.0\ECOAPI.csproj.CoreCompileInputs.cache
+C:\work\Panjeree\PECO\API\ECOAPI 2022-05-24\obj\Debug\net5.0\ECOAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\work\Panjeree\PECO\API\ECOAPI 2022-05-24\obj\Debug\net5.0\ECOAPI.RazorAssemblyInfo.cache
+C:\work\Panjeree\PECO\API\ECOAPI 2022-05-24\obj\Debug\net5.0\ECOAPI.RazorAssemblyInfo.cs
+C:\work\Panjeree\PECO\API\ECOAPI 2022-05-24\obj\Debug\net5.0\scopedcss\bundle\ECOAPI.styles.css
+C:\work\Panjeree\PECO\API\ECOAPI 2022-05-24\obj\Debug\net5.0\staticwebassets\ECOAPI.StaticWebAssets.Manifest.cache
+C:\work\Panjeree\PECO\API\ECOAPI 2022-05-24\obj\Debug\net5.0\ECOAPI.TagHelpers.input.cache
+C:\work\Panjeree\PECO\API\ECOAPI 2022-05-24\obj\Debug\net5.0\ECOAPI.TagHelpers.output.cache
+C:\work\Panjeree\PECO\API\ECOAPI 2022-05-24\obj\Debug\net5.0\ECOAPI.RazorCoreGenerate.cache
+C:\work\Panjeree\PECO\API\ECOAPI 2022-05-24\obj\Debug\net5.0\Razor\Pages\Error.cshtml.g.cs
+C:\work\Panjeree\PECO\API\ECOAPI 2022-05-24\obj\Debug\net5.0\Razor\Pages\Index.cshtml.g.cs
+C:\work\Panjeree\PECO\API\ECOAPI 2022-05-24\obj\Debug\net5.0\Razor\Pages\Privacy.cshtml.g.cs
+C:\work\Panjeree\PECO\API\ECOAPI 2022-05-24\obj\Debug\net5.0\Razor\Pages\Shared\_Layout.cshtml.g.cs
+C:\work\Panjeree\PECO\API\ECOAPI 2022-05-24\obj\Debug\net5.0\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\work\Panjeree\PECO\API\ECOAPI 2022-05-24\obj\Debug\net5.0\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\work\Panjeree\PECO\API\ECOAPI 2022-05-24\obj\Debug\net5.0\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\work\Panjeree\PECO\API\ECOAPI 2022-05-24\obj\Debug\net5.0\ECOAPI.RazorTargetAssemblyInfo.cache
+C:\work\Panjeree\PECO\API\ECOAPI 2022-05-24\obj\Debug\net5.0\ECOAPI.RazorTargetAssemblyInfo.cs
+C:\work\Panjeree\PECO\API\ECOAPI 2022-05-24\obj\Debug\net5.0\ECOAPI.Views.pdb
+C:\work\Panjeree\PECO\API\ECOAPI 2022-05-24\obj\Debug\net5.0\ECOAPI.dll
+C:\work\Panjeree\PECO\API\ECOAPI 2022-05-24\obj\Debug\net5.0\refint\ECOAPI.dll
+C:\work\Panjeree\PECO\API\ECOAPI 2022-05-24\obj\Debug\net5.0\ECOAPI.pdb
+C:\work\Panjeree\PECO\API\ECOAPI 2022-05-24\obj\Debug\net5.0\ECOAPI.genruntimeconfig.cache
+C:\work\Panjeree\PECO\API\ECOAPI 2022-05-24\obj\Debug\net5.0\ref\ECOAPI.dll
+C:\work\Panjeree\PECO\API\ECOAPI 2022-05-24\obj\Debug\net5.0\ECOAPI.csproj.CopyComplete
+C:\work\Panjeree\PECO\API\ECOAPI\bin\Debug\net5.0\appsettings.Development.json
+C:\work\Panjeree\PECO\API\ECOAPI\bin\Debug\net5.0\appsettings.json
+C:\work\Panjeree\PECO\API\ECOAPI\bin\Debug\net5.0\ECOAPI.StaticWebAssets.xml
+C:\work\Panjeree\PECO\API\ECOAPI\bin\Debug\net5.0\ECOAPI.exe
+C:\work\Panjeree\PECO\API\ECOAPI\bin\Debug\net5.0\ECOAPI.deps.json
+C:\work\Panjeree\PECO\API\ECOAPI\bin\Debug\net5.0\ECOAPI.runtimeconfig.json
+C:\work\Panjeree\PECO\API\ECOAPI\bin\Debug\net5.0\ECOAPI.runtimeconfig.dev.json
+C:\work\Panjeree\PECO\API\ECOAPI\bin\Debug\net5.0\ECOAPI.dll
+C:\work\Panjeree\PECO\API\ECOAPI\bin\Debug\net5.0\ECOAPI.pdb
+C:\work\Panjeree\PECO\API\ECOAPI\bin\Debug\net5.0\ECOAPI.Views.dll
+C:\work\Panjeree\PECO\API\ECOAPI\bin\Debug\net5.0\ECOAPI.Views.pdb
+C:\work\Panjeree\PECO\API\ECOAPI\obj\Debug\net5.0\ECOAPI.csproj.AssemblyReference.cache
+C:\work\Panjeree\PECO\API\ECOAPI\obj\Debug\net5.0\ECOAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\work\Panjeree\PECO\API\ECOAPI\obj\Debug\net5.0\ECOAPI.AssemblyInfoInputs.cache
+C:\work\Panjeree\PECO\API\ECOAPI\obj\Debug\net5.0\ECOAPI.AssemblyInfo.cs
+C:\work\Panjeree\PECO\API\ECOAPI\obj\Debug\net5.0\ECOAPI.csproj.CoreCompileInputs.cache
+C:\work\Panjeree\PECO\API\ECOAPI\obj\Debug\net5.0\ECOAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\work\Panjeree\PECO\API\ECOAPI\obj\Debug\net5.0\ECOAPI.RazorAssemblyInfo.cache
+C:\work\Panjeree\PECO\API\ECOAPI\obj\Debug\net5.0\ECOAPI.RazorAssemblyInfo.cs
+C:\work\Panjeree\PECO\API\ECOAPI\obj\Debug\net5.0\scopedcss\bundle\ECOAPI.styles.css
+C:\work\Panjeree\PECO\API\ECOAPI\obj\Debug\net5.0\staticwebassets\ECOAPI.StaticWebAssets.Manifest.cache
+C:\work\Panjeree\PECO\API\ECOAPI\obj\Debug\net5.0\ECOAPI.TagHelpers.input.cache
+C:\work\Panjeree\PECO\API\ECOAPI\obj\Debug\net5.0\ECOAPI.TagHelpers.output.cache
+C:\work\Panjeree\PECO\API\ECOAPI\obj\Debug\net5.0\ECOAPI.RazorCoreGenerate.cache
+C:\work\Panjeree\PECO\API\ECOAPI\obj\Debug\net5.0\Razor\Pages\Error.cshtml.g.cs
+C:\work\Panjeree\PECO\API\ECOAPI\obj\Debug\net5.0\Razor\Pages\Index.cshtml.g.cs
+C:\work\Panjeree\PECO\API\ECOAPI\obj\Debug\net5.0\Razor\Pages\Privacy.cshtml.g.cs
+C:\work\Panjeree\PECO\API\ECOAPI\obj\Debug\net5.0\Razor\Pages\Shared\_Layout.cshtml.g.cs
+C:\work\Panjeree\PECO\API\ECOAPI\obj\Debug\net5.0\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\work\Panjeree\PECO\API\ECOAPI\obj\Debug\net5.0\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\work\Panjeree\PECO\API\ECOAPI\obj\Debug\net5.0\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\work\Panjeree\PECO\API\ECOAPI\obj\Debug\net5.0\ECOAPI.RazorTargetAssemblyInfo.cache
+C:\work\Panjeree\PECO\API\ECOAPI\obj\Debug\net5.0\ECOAPI.RazorTargetAssemblyInfo.cs
+C:\work\Panjeree\PECO\API\ECOAPI\obj\Debug\net5.0\ECOAPI.Views.pdb
+C:\work\Panjeree\PECO\API\ECOAPI\obj\Debug\net5.0\ECOAPI.dll
+C:\work\Panjeree\PECO\API\ECOAPI\obj\Debug\net5.0\refint\ECOAPI.dll
+C:\work\Panjeree\PECO\API\ECOAPI\obj\Debug\net5.0\ECOAPI.pdb
+C:\work\Panjeree\PECO\API\ECOAPI\obj\Debug\net5.0\ECOAPI.genruntimeconfig.cache
+C:\work\Panjeree\PECO\API\ECOAPI\obj\Debug\net5.0\ref\ECOAPI.dll
+C:\work\Panjeree\PECO\API\ECOAPI\obj\Debug\net5.0\ECOAPI.csproj.CopyComplete
+C:\Users\didarul.islam\Desktop\ECOAPI\ECOAPI\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\didarul.islam\Desktop\ECOAPI\ECOAPI\bin\Debug\net5.0\appsettings.json
+C:\Users\didarul.islam\Desktop\ECOAPI\ECOAPI\bin\Debug\net5.0\ECOAPI.exe
+C:\Users\didarul.islam\Desktop\ECOAPI\ECOAPI\bin\Debug\net5.0\ECOAPI.deps.json
+C:\Users\didarul.islam\Desktop\ECOAPI\ECOAPI\bin\Debug\net5.0\ECOAPI.runtimeconfig.json
+C:\Users\didarul.islam\Desktop\ECOAPI\ECOAPI\bin\Debug\net5.0\ECOAPI.runtimeconfig.dev.json
+C:\Users\didarul.islam\Desktop\ECOAPI\ECOAPI\bin\Debug\net5.0\ECOAPI.dll
+C:\Users\didarul.islam\Desktop\ECOAPI\ECOAPI\bin\Debug\net5.0\ref\ECOAPI.dll
+C:\Users\didarul.islam\Desktop\ECOAPI\ECOAPI\bin\Debug\net5.0\ECOAPI.pdb
+C:\Users\didarul.islam\Desktop\ECOAPI\ECOAPI\bin\Debug\net5.0\ECOAPI.Views.dll
+C:\Users\didarul.islam\Desktop\ECOAPI\ECOAPI\bin\Debug\net5.0\ECOAPI.Views.pdb
+C:\Users\didarul.islam\Desktop\ECOAPI\ECOAPI\obj\Debug\net5.0\ECOAPI.csproj.AssemblyReference.cache
+C:\Users\didarul.islam\Desktop\ECOAPI\ECOAPI\obj\Debug\net5.0\ECOAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\didarul.islam\Desktop\ECOAPI\ECOAPI\obj\Debug\net5.0\ECOAPI.AssemblyInfoInputs.cache
+C:\Users\didarul.islam\Desktop\ECOAPI\ECOAPI\obj\Debug\net5.0\ECOAPI.AssemblyInfo.cs
+C:\Users\didarul.islam\Desktop\ECOAPI\ECOAPI\obj\Debug\net5.0\ECOAPI.csproj.CoreCompileInputs.cache
+C:\Users\didarul.islam\Desktop\ECOAPI\ECOAPI\obj\Debug\net5.0\ECOAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\didarul.islam\Desktop\ECOAPI\ECOAPI\obj\Debug\net5.0\ECOAPI.RazorAssemblyInfo.cache
+C:\Users\didarul.islam\Desktop\ECOAPI\ECOAPI\obj\Debug\net5.0\ECOAPI.RazorAssemblyInfo.cs
+C:\Users\didarul.islam\Desktop\ECOAPI\ECOAPI\obj\Debug\net5.0\staticwebassets\ECOAPI.StaticWebAssets.Manifest.cache
+C:\Users\didarul.islam\Desktop\ECOAPI\ECOAPI\obj\Debug\net5.0\staticwebassets\ECOAPI.StaticWebAssets.xml
+C:\Users\didarul.islam\Desktop\ECOAPI\ECOAPI\obj\Debug\net5.0\scopedcss\bundle\ECOAPI.styles.css
+C:\Users\didarul.islam\Desktop\ECOAPI\ECOAPI\obj\Debug\net5.0\ECOAPI.TagHelpers.input.cache
+C:\Users\didarul.islam\Desktop\ECOAPI\ECOAPI\obj\Debug\net5.0\ECOAPI.TagHelpers.output.cache
+C:\Users\didarul.islam\Desktop\ECOAPI\ECOAPI\obj\Debug\net5.0\ECOAPI.RazorCoreGenerate.cache
+C:\Users\didarul.islam\Desktop\ECOAPI\ECOAPI\obj\Debug\net5.0\Razor\Pages\Error.cshtml.g.cs
+C:\Users\didarul.islam\Desktop\ECOAPI\ECOAPI\obj\Debug\net5.0\Razor\Pages\Index.cshtml.g.cs
+C:\Users\didarul.islam\Desktop\ECOAPI\ECOAPI\obj\Debug\net5.0\Razor\Pages\Privacy.cshtml.g.cs
+C:\Users\didarul.islam\Desktop\ECOAPI\ECOAPI\obj\Debug\net5.0\Razor\Pages\Shared\_Layout.cshtml.g.cs
+C:\Users\didarul.islam\Desktop\ECOAPI\ECOAPI\obj\Debug\net5.0\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\didarul.islam\Desktop\ECOAPI\ECOAPI\obj\Debug\net5.0\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\Users\didarul.islam\Desktop\ECOAPI\ECOAPI\obj\Debug\net5.0\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\Users\didarul.islam\Desktop\ECOAPI\ECOAPI\obj\Debug\net5.0\ECOAPI.RazorTargetAssemblyInfo.cache
+C:\Users\didarul.islam\Desktop\ECOAPI\ECOAPI\obj\Debug\net5.0\ECOAPI.RazorTargetAssemblyInfo.cs
+C:\Users\didarul.islam\Desktop\ECOAPI\ECOAPI\obj\Debug\net5.0\ECOAPI.Views.pdb
+C:\Users\didarul.islam\Desktop\ECOAPI\ECOAPI\obj\Debug\net5.0\ECOAPI.dll
+C:\Users\didarul.islam\Desktop\ECOAPI\ECOAPI\obj\Debug\net5.0\ref\ECOAPI.dll
+C:\Users\didarul.islam\Desktop\ECOAPI\ECOAPI\obj\Debug\net5.0\ECOAPI.pdb
+C:\Users\didarul.islam\Desktop\ECOAPI\ECOAPI\obj\Debug\net5.0\ECOAPI.genruntimeconfig.cache
+C:\Users\didarul.islam\Desktop\ECOAPI\ECOAPI\obj\Debug\net5.0\ECOAPI.csproj.CopyComplete
